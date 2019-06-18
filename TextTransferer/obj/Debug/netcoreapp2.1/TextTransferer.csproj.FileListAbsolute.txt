@@ -1,0 +1,11 @@
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\bin\Debug\netcoreapp2.1\TextTransferer.deps.json
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\bin\Debug\netcoreapp2.1\TextTransferer.runtimeconfig.json
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\bin\Debug\netcoreapp2.1\TextTransferer.runtimeconfig.dev.json
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\bin\Debug\netcoreapp2.1\TextTransferer.dll
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\bin\Debug\netcoreapp2.1\TextTransferer.pdb
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\obj\Debug\netcoreapp2.1\TextTransferer.csprojAssemblyReference.cache
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\obj\Debug\netcoreapp2.1\TextTransferer.csproj.CoreCompileInputs.cache
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\obj\Debug\netcoreapp2.1\TextTransferer.AssemblyInfoInputs.cache
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\obj\Debug\netcoreapp2.1\TextTransferer.AssemblyInfo.cs
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\obj\Debug\netcoreapp2.1\TextTransferer.dll
+C:\Users\boome\source\repos\TextTransferer\TextTransferer\obj\Debug\netcoreapp2.1\TextTransferer.pdb
